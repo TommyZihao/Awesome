@@ -4,4 +4,10 @@
 
 更新记录：
 
-2023年7月7日，AIGC与多模态、大语言模型及应用、学习路径与论文合集、社会百态
+- 2023年7月7日
+
+视频：https://www.bilibili.com/video/BV1eW4y1f72L
+
+文档：https://github.com/TommyZihao/Awesome/blob/main/20230707.md
+
+AIGC与多模态、大语言模型及应用、学习路径与论文合集、社会百态
